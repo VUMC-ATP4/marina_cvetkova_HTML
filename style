@@ -1,0 +1,15 @@
+.zalsteksts{
+   color:green;
+   border-style: dashed; 
+}
+
+
+#unikals{
+    color: blue;
+    font-size: large;
+}
+
+.ramitis {
+    border-style: double;
+    border-color: chocolate;
+}
